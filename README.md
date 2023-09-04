@@ -1,1 +1,1 @@
-# Ini Adalah Latihan Pertama Untuk Membuat Web Dari Dicoding
+# Ini Adalah Latihan Pertama Untuk Membuat Web
